@@ -1,0 +1,4 @@
+{
+    "model__learning_rate": 1.0,
+    "model__n_estimators": 200
+}

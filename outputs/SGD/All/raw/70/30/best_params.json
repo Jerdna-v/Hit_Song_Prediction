@@ -1,0 +1,4 @@
+{
+    "model__alpha": 0.01,
+    "model__penalty": "l1"
+}

@@ -1,0 +1,14 @@
+# Ignore specific large files
+checkpoints/ExtraTrees/All/preprocessed/70/30/best_model.pkl
+checkpoints/ExtraTrees/All/preprocessed/80/20/best_model.pkl
+checkpoints/ExtraTrees/All/raw/70/30/best_model.pkl
+checkpoints/ExtraTrees/All/raw/80/20/best_model.pkl
+checkpoints/RandomForest/All/preprocessed/70/30/best_model.pkl
+checkpoints/RandomForest/All/preprocessed/80/20/best_model.pkl
+outputs/ExtraTrees/All/preprocessed/70/30/model.joblib
+outputs/ExtraTrees/All/preprocessed/80/20/model.joblib
+outputs/ExtraTrees/All/raw/70/30/model.joblib
+outputs/ExtraTrees/All/raw/80/20/model.joblib
+outputs/RandomForest/All/preprocessed/70/30/model.joblib
+outputs/RandomForest/All/preprocessed/80/20/model.joblib
+Thesis/Datasets/spotify_data_mil.csv
